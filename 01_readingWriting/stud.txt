@@ -1,0 +1,5 @@
+1 student1 20
+2 student2 21
+3 student3 20
+4 student4 21
+5 student5 20
